@@ -14,8 +14,9 @@ DEDSEC_LINX2WIN is a robust and user-friendly Linux-exclusive tool meticulously 
     * git clone https://github.com/0xbitx/DEDSEC_LINX2WIN.git
     * cd DEDSEC_LINX2WIN
     * pip install tabulate
-    * chmod +x dedsec_Linx2win
-    * ./dedsec_Linx2win
+    * chmod +x dedsec_Linx2win setup
+    * sudo ./setup
+    * sudo ./dedsec_Linx2win
 
 ### TESTED ON FOLLOWING:
 * Kali Linux
