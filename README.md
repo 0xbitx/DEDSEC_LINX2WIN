@@ -21,7 +21,6 @@ DEDSEC_LINX2WIN is a robust and user-friendly Linux-exclusive tool meticulously 
 ### TESTED ON FOLLOWING:
 * Kali Linux
 * Parrot OS
-* Ubuntu
 
 ### LANGUAGE 
 * Python
